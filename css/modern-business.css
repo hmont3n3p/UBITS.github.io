@@ -27,3 +27,10 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.bg-dark {
+    background-color: #7AC943!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
